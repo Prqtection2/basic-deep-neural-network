@@ -1,2 +1,2 @@
 # basic-deep-neural-network
-Basic DNN and graphs of a confusion matrix and loss function. Solves a simple classification problem.
+Basic Deep Neural Network and presents accuracy in graphs of a confusion matrix and loss function. Solves a simple classification problem.
